@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Class-Note",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Class-Note::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Class-Note-Debug-2794e30195a2bbb6c1b4.json",
+					"name" : "Class-Note",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Class-Note_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Class-Note_autogen-Debug-6823328b6df58fec0bb9.json",
+					"name" : "Class-Note_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Class-Note_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Class-Note_autogen_timestamp_deps-Debug-3c3abc160e82a7eea3cb.json",
+					"name" : "Class-Note_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jin/Desktop/Class-Note/build-Class-Note-Desktop_Qt_6_2_4_GCC_64bit-Debug",
+		"source" : "/home/jin/Desktop/Class-Note/Class-Note"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

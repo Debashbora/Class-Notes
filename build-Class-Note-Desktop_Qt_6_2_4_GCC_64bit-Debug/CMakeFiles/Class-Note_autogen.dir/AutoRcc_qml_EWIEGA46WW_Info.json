@@ -1,0 +1,37 @@
+{
+	"BUILD_DIR" : "/home/jin/Desktop/Class-Note/build-Class-Note-Desktop_Qt_6_2_4_GCC_64bit-Debug/Class-Note_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jin/Desktop/Class-Note/build-Class-Note-Desktop_Qt_6_2_4_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jin/Desktop/Class-Note/build-Class-Note-Desktop_Qt_6_2_4_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jin/Desktop/Class-Note/Class-Note",
+	"CMAKE_SOURCE_DIR" : "/home/jin/Desktop/Class-Note/Class-Note",
+	"INCLUDE_DIR" : "/home/jin/Desktop/Class-Note/build-Class-Note-Desktop_Qt_6_2_4_GCC_64bit-Debug/Class-Note_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/jin/Desktop/Class-Note/Class-Note/main.qml",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-underline-16.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-italic-16.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-align-left-50.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-folder-16.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-copy-48.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-align-center-50.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-paste-48.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-align-right-50.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-strikethrough-16.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-align-justify-50.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-brush-60.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-fonts-app-40.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-bold-16.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-text-color-16.png",
+		"/home/jin/Desktop/Class-Note/Class-Note/assests/icons8-cut-48.png"
+	],
+	"LOCK_FILE" : "/home/jin/Desktop/Class-Note/build-Class-Note-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/Class-Note_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/jin/Qt/6.2.4/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/jin/Desktop/Class-Note/build-Class-Note-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/Class-Note_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/jin/Desktop/Class-Note/Class-Note/qml.qrc",
+	"VERBOSITY" : 0
+}

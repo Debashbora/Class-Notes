@@ -1,0 +1,5 @@
+/home/jin/Desktop/Class-Note/build-Class-Note-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/jin/Desktop/Class-Note/build-Class-Note-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/jin/Desktop/Class-Note/build-Class-Note-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/Class-Note.dir
+/home/jin/Desktop/Class-Note/build-Class-Note-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/Class-Note_autogen_timestamp_deps.dir
+/home/jin/Desktop/Class-Note/build-Class-Note-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/Class-Note_autogen.dir
