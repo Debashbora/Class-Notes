@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assests/icons8-folder-16.png</file>
+        <file>assests/icons8-align-center-50.png</file>
+        <file>assests/icons8-align-justify-50.png</file>
+        <file>assests/icons8-align-left-50.png</file>
+        <file>assests/icons8-align-right-50.png</file>
+        <file>assests/icons8-brush-60.png</file>
+        <file>assests/icons8-bold-16.png</file>
+        <file>assests/icons8-copy-48.png</file>
+        <file>assests/icons8-cut-48.png</file>
+        <file>assests/icons8-paste-48.png</file>
+        <file>assests/icons8-italic-16.png</file>
+        <file>assests/icons8-underline-16.png</file>
+        <file>assests/icons8-strikethrough-16.png</file>
+        <file>assests/icons8-text-color-16.png</file>
+        <file>assests/icons8-fonts-app-40.png</file>
+    </qresource>
+</RCC>
